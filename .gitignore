@@ -1,0 +1,13 @@
+# Local builds and generated install packages
+/build/
+/dist/
+/usb-pd-ufp-*.zip
+/usb-pd-ufp-*/
+/SHA256SUMS.txt
+
+# Device logs and local test captures
+/diagnostics/
+
+# OS metadata
+.DS_Store
+Thumbs.db
