@@ -4,6 +4,7 @@
 /usb-pd-ufp-*.zip
 /usb-pd-ufp-*/
 /SHA256SUMS.txt
+/.release-tmp/
 
 # Device logs and local test captures
 /diagnostics/
